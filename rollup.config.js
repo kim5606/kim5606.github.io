@@ -13,7 +13,7 @@ function build(filename) {
     output: {
       file: `${JS_DIST}/${filename}.min.js`,
       format: 'iife',
-      name: 'Chirpy',
+      name: 'Chidrpy',
       sourcemap: !isProd
     },
     watch: {
@@ -38,9 +38,9 @@ function build(filename) {
 
 export default [
   build('commons'),
-  build('home'),
-  build('categories'),
-  build('page'),
+  build('홈'),
+  build('카테고리'),
+  build('페이지'),
   build('post'),
   build('misc')
 ];
