@@ -63,17 +63,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: [light]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "IMG_7374.jpg"
+img_cdn: "https://raw.githubusercontent.com/kim5606/kim5606.github.io/main/IMG_7374.jpg"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "IMG_7374.jpg"
+avatar: "https://raw.githubusercontent.com/kim5606/kim5606.github.io/main/IMG_7374.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
