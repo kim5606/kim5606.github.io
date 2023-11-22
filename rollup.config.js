@@ -38,9 +38,8 @@ function build(filename) {
 
 export default [
   build('commons'),
-  build('홈'),
-  build('카테고리'),
-  build('페이지'),
+  build('categories'),
+  build('page'),
   build('post'),
   build('misc')
 ];
