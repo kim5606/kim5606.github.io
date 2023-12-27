@@ -1,7 +1,7 @@
 ---
 title: 정글 10주차
 author: cotes
-date: 2023-12-27 14:30:00 +0800
+date: 2023-12-27 17:30:00 +0800
 categories: [크래프톤 정글]
 tags: [Algorithm]
 pin: true
