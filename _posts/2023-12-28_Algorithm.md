@@ -1,7 +1,7 @@
 ---
-title: 정글 10주차
+title: 정글 11주차 / Algorithm
 author: cotes
-date: 2023-12-26 17:30:00 +0800
+date: 2023-12-28 14:30:00 +0800
 categories: [크래프톤 정글]
 tags: [Algorithm]
 pin: true
@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-# 2023.12.26 / Algorithm
+# 2023.12.28 / Algorithm
 
 ### 1182 부분수열의 합
 
