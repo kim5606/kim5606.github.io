@@ -7,7 +7,7 @@ on:
       - "docs"
     paths-ignore:
       - ".github/**"
-      - "!.github/workflows/ci.yml"
+      - "!.github/workflows/main.yml"
       - ".gitignore"
       - "docs/**"
       - "README.md"
