@@ -1,7 +1,7 @@
 ---
 title: 정글 11주차 / Algorithm
 author: cotes
-date: 2023-12-28 14:30:00 +0800
+date: 2023-12-28 14:30:00 +0000
 categories: [크래프톤 정글]
 tags: [Algorithm]
 pin: true
