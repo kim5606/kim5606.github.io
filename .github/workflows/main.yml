@@ -2,19 +2,17 @@ name: CI
 
 on:
   push:
-    branches: [main]
     branches-ignore:
       - "production"
       - "docs"
     paths-ignore:
       - ".github/**"
-      - "!.github/workflows/main.yml"
+      - "!.github/workflows/ci.yml"
       - ".gitignore"
       - "docs/**"
       - "README.md"
       - "LICENSE"
   pull_request:
-    branches: [main]
     paths:
       - "**"
 
