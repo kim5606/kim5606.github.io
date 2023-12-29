@@ -34,7 +34,7 @@ jobs:
 
       - name: Bundle Install
         run: bundle install
-        
+
       - name: Setup Node
         uses: actions/setup-node@v4
 
@@ -45,4 +45,4 @@ jobs:
         run: bash tools/test
 
       - name: Bundle config
-      run: bundle config set --local specific_platform true
+        run: bundle config set --local specific_platform true
