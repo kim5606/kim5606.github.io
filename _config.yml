@@ -2,6 +2,7 @@
 
 include:
   - _site
+  
 # Import the theme
 theme: jekyll-theme-chirpy
 
